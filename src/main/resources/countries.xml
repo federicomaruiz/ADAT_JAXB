@@ -1,22 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <countries>
     <country>
+        <capital>Madrid</capital>
         <name>España</name>
         <population>30000</population>
-        <capital>Madrid</capital>
     </country>
     <country>
+        <capital>Londres</capital>
         <name>Reindo Unido</name>
         <population>500000</population>
-        <capital>Londres</capital>
     </country>
     <country>
+        <capital>Paris</capital>
         <name>Francia</name>
         <population>1000000</population>
-        <capital>Paris</capital>
     </country>
     <country>
+        <capital>Roma</capital>
         <name>Italia</name>
         <population>1500000</population>
-        <capital>Roma</capital>
+    </country>
+    <country>
+        <capital>Lisboa</capital>
+        <name>Portugal</name>
+        <population>9029130</population>
     </country>
 </countries>

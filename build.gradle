@@ -10,6 +10,8 @@ repositories {
 }
 
 dependencies {
+    implementation('javax.xml.bind:jaxb-api:2.3.1')  // Implemento las librerias para poder utilizar XML
+    implementation('org.glassfish.jaxb:jaxb-runtime:2.3.1')
     testImplementation platform('org.junit:junit-bom:5.9.1')
     testImplementation 'org.junit.jupiter:junit-jupiter'
 }
